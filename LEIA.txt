@@ -1,0 +1,3 @@
+primeiro cria usuario
+gera rfid
+vincula a usuario
